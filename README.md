@@ -25,9 +25,10 @@ I'm a passionate software engineer focused on building **robust backend systems*
 - Express.js & Node.js
 - React & React Native (Expo)
 - Firebase (Auth, Firestore)
-- MongoDB, MySQL, PostgreSQL
+- MongoDB, MySQL, PostgreSQL, Oracle, SQL Server
 - Git & GitHub
 - Swagger, JUnit, Jest
+- JTW
 
 ### 📱 Mobile Development
 - React Native (Android & iOS)
@@ -83,6 +84,9 @@ I'm a passionate software engineer focused on building **robust backend systems*
 
 ## 🤝 Connect with me
 - GitHub: [@carlop13](https://github.com/carlop13)
+- LinkedIn: https://www.linkedin.com/in/carlos-guadalupe-l%C3%B3pez-trejo-380947234/
+- Correo: carlosguadalupelt13@gmail.com
+- Phone: +52 442 353 55 07
 
 ---
 
