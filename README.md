@@ -1,212 +1,85 @@
-# Hi there! 👋 I'm Carlos Guadalupe López Trejo
+# Hi there 👋 I'm Carlos Guadalupe López Trejo
 
 <p align="center">
   <b>Software Engineer • Full-Stack Developer • Backend & Mobile Specialist</b><br>
   📍 San Miguel de Allende, Guanajuato, México 🇲🇽
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,php,kotlin,dart,react,reactnative,nodejs,express,prisma,postgres,mysql,mongodb,firebase,docker,aws,git,github,linux" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer passionate about building scalable software, secure backend architectures, and cross-platform mobile applications.
+I'm a **Software Engineer** passionate about building scalable systems, secure backend architectures, and cross-platform mobile applications.
 
-I enjoy designing complete software solutions—from database architecture and REST APIs to mobile applications and cloud deployments.
+Currently, I'm developing **Easy Place**, a complete **PropTech + LegalTech platform** that digitalizes the rental process through identity verification, legal document management, digital signatures, secure payments, and real-time communication.
 
-Currently I'm developing **Easy Place**, a complete **PropTech + LegalTech platform** that digitalizes the rental process through identity verification, legal document management, digital signatures and secure online payments.
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-- TypeScript
-- JavaScript
-- Java
-- PHP
-- Kotlin
-- Dart
-- Python
-- SQL
-- Bash
+I enjoy working across the entire stack—from database design and API architecture to mobile apps, cloud infrastructure, and DevOps.
 
 ---
-
-## ⚙️ Frontend
-
-- Vite
-- React
-- React Native
-- Expo
-- Flutter
-- TailwindCSS
-- Shadcn UI
-- React Native Maps
-- React i18next
-- Axios
-- Socket.io Client
-
----
-
-## 🔥 Backend
-
-- Node.js & Express.js
-- Spring Boot
-- Codeigniter
-- TypeScript
-- Prisma ORM
-- Swagger, JUnit, Jest
-- JWT Authentication
-- Zod
-- Bcrypt
-- Socket.io
-- REST APIs
-
----
-
-## ☁️ Cloud & DevOps
-
-- Docker
-- Docker Compose
-- AWS S3
-- Render
-- Nginx
-- Linux
-- Plesk
-- GitHub Actions
-- Git
-
----
-
-## 🗄 Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-- Oracle
-- SQL Server
-
----
-
-## 🔐 Security
-
-- JWT Authentication
-- Refresh Token Rotation
-- RBAC
-- Helmet
-- Express Rate Limit
-- Secure File Storage
-- Signed URLs
-- Password Hashing (Bcrypt)
-
----
-
-## 💳 Integrations
-
-- Stripe Payments
-- Google OAuth
-- AWS S3
-- Open Exchange Rates
-- Mifiel
-- WeeTrust
-- Resend
-- Brevo
-
----
-
-## 📊 Data & Analytics
-- Data analysis for industrial dashboards
-- PI Vision & database integration
-- KPI visualization and reporting
-
----
-
-# ⭐ Featured Project
 
 # 🏠 Easy Place — PropTech + LegalTech Platform
 
-A complete rental ecosystem developed for property owners and tenants.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-2F4F5F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-008A05?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge"/>
+</p>
 
-Easy Place digitalizes every stage of the rental process, including:
+### ✨ What it includes
 
-- Property marketplace
-- Real-time chat
-- Online applications
-- Identity verification (KYC)
-- Legal document management
-- Digital contracts
-- Electronic signatures
-- Secure payments
-- Multi-language support
-- Multi-currency support
-- Offline cache
-- Admin dashboard
+- 🏘 Property marketplace
+- 💬 Real-time chat with Socket.IO
+- 📄 Rental applications
+- 🪪 KYC identity verification (WeeTrust / Mifiel)
+- 🗂 Secure document management
+- ✍️ Digital contracts
+- 🔐 Electronic signatures (NOM-151)
+- 💳 Stripe payment processing
+- 🌍 Multi-language support
+- 💱 Multi-currency support
+- 📶 Offline cache with AsyncStorage
+- 🛡 Role-based access control
+- 📊 Administrative dashboard
 
 ---
 
 ## 🏗 Architecture
 
-### Mobile App
+### 📱 Mobile App
 
 - React Native
 - Expo
 - Expo Router
 - Context API
 - Axios Interceptors
-- Socket.io
+- Socket.IO Client
 - AsyncStorage
 - SecureStore
+- React Native Maps
+- Expo Location
 
----
-
-### Backend
+### ⚙️ Backend
 
 - Node.js
-- Express
+- Express.js
 - TypeScript
 - Prisma ORM
 - PostgreSQL
-
-Layered Architecture
-
-- Routes
-- Controllers
-- Services
-- Middlewares
-- Utilities
-
-Features
-
 - JWT Authentication
-- Refresh Tokens
-- RBAC
+- Refresh Token Rotation
+- Zod Validation
+- Bcrypt
+- Socket.IO
 - REST API
-- WebSockets
-- Stripe Webhooks
-- Transaction Management
-- Audit Logs
 
----
-
-### Database
-
-Designed from scratch using PostgreSQL + Prisma.
-
-Highlights:
-
-- State Machine using ENUMs
-- Transactional workflows
-- Soft Deletes
-- Audit Logs
-- JSONB
-- Foreign Keys
-- Optimized Indexes
-
----
-
-### Infrastructure
+### ☁️ Infrastructure
 
 - Docker
 - AWS S3
@@ -217,125 +90,120 @@ Highlights:
 
 ---
 
+## 🗄 Database Design
+
+- PostgreSQL + Prisma ORM
+- State Machine with ENUMs
+- Transactional workflows
+- Soft deletes
+- Audit logs
+- JSONB fields
+- Optimized indexes
+- Foreign key integrity
+
+---
+
 ## 🔒 Security
 
-- JWT
-- Refresh Token Rotation
-- Role Based Access Control
-- Signed URLs
-- Password Hashing
-- KYC Verification
-- Secure Document Storage
+- JWT + Refresh Tokens
+- RBAC (Role-Based Access Control)
+- Signed URLs for documents
+- Password hashing (Bcrypt)
+- Rate limiting
+- Helmet protection
+- Secure file storage
+- KYC verification
 
 ---
 
-## 📱 Technologies Used
+## 📱 Demo & Documentation
 
-React Native • Expo • TypeScript • Node.js • Express • Prisma • PostgreSQL • Docker • Socket.io • Stripe • AWS S3 • JWT • Zod • Bcrypt • Google OAuth • Open Exchange Rates • Mifiel • WeeTrust
+### 🖥 Admin Panel
+🔗 https://easy-place-admin.vercel.app/
 
----
+### 📄 API Documentation (Postman)
+🔗 https://documenter.getpostman.com/view/24519066/2sBY4TqJPR
 
-## 🌟 Other Projects
-
-### 🏠 Easy Place
-
-🌐 Admin Panel
-
-https://easy-place-admin.vercel.app/
-
-📄 REST API Documentation
-
-https://documenter.getpostman.com/view/24519066/2sBY4TqJPR
-
-📲 Android APK
-
-https://drive.google.com/file/d/1Qo0MMeSwry0YX9LuSY6vvzusPOZdLsgE/view?usp=sharing
+### 📲 Android APK
+🔗 https://drive.google.com/file/d/1Qo0MMeSwry0YX9LuSY6vvzusPOZdLsgE/view?usp=sharing
 
 ---
+
+# 🌟 Other Projects
 
 ### 🏡 Le Rochelle Real Estate
+🔗 https://lerochelle.kesug.com/
 
-🌐 https://lerochelle.kesug.com/
-
-Real estate management platform developed with PHP, CodeIgniter and MySQL.
+Real estate management platform built with **PHP, CodeIgniter, MySQL, and TailwindCSS**.
 
 ---
 
 ### 🛒 La Pulga
+🔗 https://lapulga.kesug.com/
 
-🌐 https://lapulga.kesug.com/
-
-E-commerce platform including invoicing, product catalog and geolocation.
+E-commerce platform with product catalog, invoicing, and geolocation features.
 
 ---
 
 ### 🌱 Gotita de Agua (UTEQ Winner)
+🎥 Demo: https://drive.google.com/file/d/1KBOYn_eFRxht878N9OhU1dkaMNsC9izG/view?usp=sharing
 
-🎥 Demo Video
-
-https://drive.google.com/file/d/1KBOYn_eFRxht878N9OhU1dkaMNsC9izG/view?usp=sharing
-
-IoT smart irrigation platform developed with:
+IoT-based smart irrigation system built with:
 
 - Kotlin
 - PHP
+- Firebase
 - Arduino
 - ESP32
-- Firebase
 
 ---
 
 ### 🐊 SnapCocodrilo
+📲 APK: https://drive.google.com/file/d/1QZW-0jir1n9K06GQUMHT9KS3fbL-NyLC/view?usp=sharing
 
-📲 APK
-
-https://drive.google.com/file/d/1QZW-0jir1n9K06GQUMHT9KS3fbL-NyLC/view?usp=sharing
-
-Mobile application developed with React Native.
+Mobile application developed with **React Native**.
 
 ---
 
-# 📚 Certifications
+# 📊 GitHub Stats
 
-- **TechnoReady In-México Bootcamp**
-  - Backend development
-  - REST APIs
-  - Software testing & automation
-  - Version control & collaboration
-- **Google Cybersecurity Professional Certificate**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlop13&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlop13&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carlop13&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🌱 Currently Learning
+# 🧠 Currently Learning
 
 - Kubernetes
-
 - AWS
-
-- Microservices
-
 - System Design
+- Microservices
+- CI/CD Pipelines
 
 ---
 
 # 🤝 Let's Connect
 
-📧 **Email**
-
+📧 **Email**  
 carlosguadalupelt13@gmail.com
 
-📱 **Phone number**
-
+📱 **Phone number**  
 +52 442 353 5507
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/carlos-guadalupe-l%C3%B3pez-trejo-380947234/
 
-💻 **GitHub**
-
+💻 **GitHub**  
 https://github.com/carlop13
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
