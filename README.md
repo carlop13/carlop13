@@ -145,8 +145,19 @@ E-commerce platform with product catalog, invoicing, and geolocation features.
 
 ---
 
-### 🌱 Gotita de Agua (UTEQ Winner)
-🎥 Demo: https://drive.google.com/file/d/1KBOYn_eFRxht878N9OhU1dkaMNsC9izG/view?usp=sharing
+### 🌱 Agricultura Inteligente (UTEQ Winner)
+## 🎥 Demo
+
+[![Gotita de Agua — Smart Irrigation System](https://www.youtube.com/watch?v=Qu7RhS2lDTw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qu7RhS2lDTw)
+
+**Watch the full demonstration on YouTube.**
+
+## 📚 Documentation
+
+https://drive.google.com/file/d/1c03cZ84FM6ImIAKnkYTmsywKvJhaVCj8/view?usp=sharing
+
+## 💻 Repository
+https://github.com/carlop13/agricultura-inteligente.git
 
 IoT-based smart irrigation system built with:
 
@@ -198,9 +209,6 @@ carlosguadalupelt13@gmail.com
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/carlos-guadalupe-l%C3%B3pez-trejo-380947234/
-
-💻 **GitHub**  
-https://github.com/carlop13
 
 ---
 
