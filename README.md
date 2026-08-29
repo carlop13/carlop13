@@ -1,13 +1,13 @@
-# Hi there 👋 I'm Carlos Guadalupe López Trejo
+# Hello! 👋 I'm Carlos Guadalupe López Trejo
 
 <p align="center">
-  <b>Software Engineer • Full-Stack Developer • Backend & Mobile Specialist</b><br>
-  📍 San Miguel de Allende, Guanajuato, México 🇲🇽
+  <b>Software Engineer • Backend & Mobile Developer</b><br>
+  📍 Querétaro, México 🇲🇽
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,php,kotlin,dart,flutter,arduino,vite,react,spring,nodejs,express,prisma,postgres,mysql,mongodb,firebase,docker,aws,git,github,linux,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,php,kotlin,dart,flutter,vite,react,spring,nodejs,express,prisma,postgres,mysql,mongodb,firebase,docker,aws,git,github,linux,postman,figma" />
   </a>
 </p>
 
@@ -15,200 +15,92 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** passionate about building scalable systems, secure backend architectures, and cross-platform mobile applications.
+I'm a passionate **Software Engineer** focused on building robust backend systems, cross-platform mobile applications, and data-driven solutions. I enjoy solving complex real-world problems through clean architecture, scalable APIs, and modern cloud technologies.
 
-Currently, I'm developing **Easy Place**, a complete **PropTech + LegalTech platform** that digitalizes the rental process through identity verification, legal document management, digital signatures, secure payments, and real-time communication.
+Currently, I specialize in full-stack development, managing the entire lifecycle of software from database design and secure API architecture to mobile interfaces and deployment.
 
-I enjoy working across the entire stack—from database design and API architecture to mobile apps, cloud infrastructure, and DevOps.
-
----
-
-# 🏠 Easy Place — PropTech + LegalTech Platform
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-2F4F5F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-008A05?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge"/>
-</p>
-
-### ✨ What it includes
-
-- 🏘 Property marketplace
-- 💬 Real-time chat with Socket.IO
-- 📄 Rental applications
-- 🪪 KYC identity verification (WeeTrust / Mifiel)
-- 🗂 Secure document management
-- ✍️ Digital contracts
-- 🔐 Electronic signatures (NOM-151)
-- 💳 Stripe payment processing
-- 🌍 Multi-language support
-- 💱 Multi-currency support
-- 📶 Offline cache with AsyncStorage
-- 🛡 Role-based access control
-- 📊 Administrative dashboard
+> ## 🌐 **[Explore My Interactive Portfolio Here!](https://carlos-lopez-portfolio-three.vercel.app/)** 🚀
+> *See my featured projects like Easy Place, detailed architectures, and interactive demos.*
 
 ---
 
-## 🏗 Architecture
+## 💻 Tech Stack
 
-### 📱 Mobile App
+### 👨‍💻 Programming Languages
+`Java` `TypeScript` `JavaScript` `PHP` `Kotlin` `Dart` `Python` `SQL` `Bash`
 
-- React Native
-- Expo
-- Expo Router
-- Context API
-- Axios Interceptors
-- Socket.IO Client
-- AsyncStorage
-- SecureStore
-- React Native Maps
-- Expo Location
+### 🛠️ Backend Development
+`Node.js` `Express.js` `Spring Boot` `CodeIgniter` `Prisma ORM` `REST APIs` `JWT`
 
-### ⚙️ Backend
+### 🎨 Frontend & UI Design
+`React` `Vite` `Tailwind CSS` `Figma` `jQuery`
 
-- Node.js
-- Express.js
-- TypeScript
-- Prisma ORM
-- PostgreSQL
-- JWT Authentication
-- Refresh Token Rotation
-- Zod Validation
-- Bcrypt
-- Socket.IO
-- REST API
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB` `Oracle` `SQL Server` `Firebase (Auth, Firestore)`
 
-### ☁️ Infrastructure
+### 📱 Mobile Development
+`React Native` `Android` `Flutter` `Expo` `Wear OS`
 
-- Docker
-- AWS S3
-- Render
-- Linux
-- Nginx
-- Plesk
+### 🗳️ Deployment Platforms
+`AWS S3` `Vercel` `Render` `Plesk`
+
+### ⚙️ DevOps & Tools
+`Docker` `Linux` `Postman` `Swagger` `Jest` `JUnit`
+
+### 🗃️ Version Control
+`Git` `GitHub`
 
 ---
 
-## 🗄 Database Design
+## 🔐 Core Competencies
 
-- PostgreSQL + Prisma ORM
-- State Machine with ENUMs
-- Transactional workflows
-- Soft deletes
-- Audit logs
-- JSONB fields
-- Optimized indexes
-- Foreign key integrity
+- **Software Engineering:** REST API design, MVC architecture, Clean Code principles.
+- **Security:** JWT authentication, Role-Based Access Control (RBAC), bcrypt hashing, KYC verification flows.
+- **Data & Analytics:** Business Intelligence dashboards, PI Vision, data transformation.
+- **Agile:** SCRUM methodology, testing & documentation.
 
 ---
 
-## 🔒 Security
+## 🎓 Education & Certifications
 
-- JWT + Refresh Tokens
-- RBAC (Role-Based Access Control)
-- Signed URLs for documents
-- Password hashing (Bcrypt)
-- Rate limiting
-- Helmet protection
-- Secure file storage
-- KYC verification
+- **B.Eng. in Software Development and Management Engineering** — Universidad Tecnológica de Querétaro (UTEQ)
+- **TechnoReady In-México Bootcamp** — Bécalos (Monterrey)
+---
+
+## 🗣️ Languages
+
+- 🇲🇽 **Spanish:** Native
+- 🇺🇸 **English:** B2 (Upper Intermediate)
+- 🇫🇷 **French:** A2 (Basic)
 
 ---
 
-## 📱 Demo & Documentation
+## 🧠 Currently Learning
 
-### 🖥 Admin Panel
-🔗 https://easy-place-admin.vercel.app/
-
-### 📄 API Documentation (Postman)
-🔗 https://documenter.getpostman.com/view/24519066/2sBY4TqJPR
-
-### 📲 Android APK
-🔗 https://drive.google.com/file/d/1Qo0MMeSwry0YX9LuSY6vvzusPOZdLsgE/view?usp=sharing
+- Kubernetes & Microservices Architecture
+- Advanced AWS Cloud Services
+- System Design
+- CI/CD Pipelines
 
 ---
 
-# 🌟 Other Projects
-
-### 🏡 Le Rochelle Real Estate
-🔗 https://lerochelle.kesug.com/
-
-Real estate management platform built with **PHP, CodeIgniter, MySQL, and TailwindCSS**.
-
----
-
-### 🛒 La Pulga
-🔗 https://lapulga.kesug.com/
-
-E-commerce platform with product catalog, invoicing, and geolocation features.
-
----
-
-### 🌱 Agricultura Inteligente (UTEQ Winner)
-## 🎥 Demo
-
-[![Gotita de Agua — Smart Irrigation System](https://www.youtube.com/watch?v=Qu7RhS2lDTw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qu7RhS2lDTw)
-
-**Watch the full demonstration on YouTube.**
-
-## 📚 Documentation
-
-https://drive.google.com/file/d/1c03cZ84FM6ImIAKnkYTmsywKvJhaVCj8/view?usp=sharing
-
-## 💻 Repository
-https://github.com/carlop13/agricultura-inteligente.git
-
-IoT-based smart irrigation system built with:
-
-- Kotlin
-- PHP
-- Firebase
-- Arduino
-- ESP32
-
----
-
-### 🐊 SnapCocodrilo
-📲 APK: https://drive.google.com/file/d/1QZW-0jir1n9K06GQUMHT9KS3fbL-NyLC/view?usp=sharing
-
-Mobile application developed with **React Native**.
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlop13&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlop13&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carlop13&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 Currently Learning
+## 🤝 Let's Connect
 
-- Kubernetes
-- AWS
-- System Design
-- Microservices
-- CI/CD Pipelines
-
----
-
-# 🤝 Let's Connect
-
-📧 **Email**  
-carlosguadalupelt13@gmail.com
-
-📱 **Phone number**  
-+52 442 353 5507
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/carlos-guadalupe-l%C3%B3pez-trejo-380947234/
+- 📧 **Email:** carlosguadalupelt13@gmail.com
+- 📱 **Phone:** +52 442 353 5507
+- 💼 **LinkedIn:** [Carlos Guadalupe López Trejo](https://www.linkedin.com/in/carlos-guadalupe-l%C3%B3pez-trejo-380947234/)
 
 ---
 
