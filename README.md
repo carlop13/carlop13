@@ -65,6 +65,13 @@ Currently, I specialize in full-stack development, managing the entire lifecycle
 
 - **B.Eng. in Software Development and Management Engineering** — Universidad Tecnológica de Querétaro (UTEQ)
 - **TechnoReady In-México Bootcamp** — Bécalos (Monterrey)
+- **Google Cloud Computing Foundations Certificate** — Google Cloud
+  - *Core Competencies & Skill Badges:*
+    - Build a Secure Google Cloud Network
+    - Implement Load Balancing on Compute Engine
+    - Set Up an App Dev Environment on Google Cloud
+    - Prepare Data for ML APIs on Google Cloud
+
 ---
 
 ## 🗣️ Languages
