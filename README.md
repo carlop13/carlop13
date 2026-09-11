@@ -77,7 +77,7 @@ Currently, I specialize in full-stack development, managing the entire lifecycle
 ## 🗣️ Languages
 
 - 🇲🇽 **Spanish:** Native
-- 🇺🇸 **English:** B2 (Upper Intermediate)
+- 🇬🇧 **English:** B2 (Upper Intermediate)
 - 🇫🇷 **French:** A2 (Basic)
 
 ---
