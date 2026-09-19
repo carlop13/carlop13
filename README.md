@@ -22,6 +22,9 @@ Currently, I specialize in full-stack development, managing the entire lifecycle
 > ## 🌐 **[Explore My Interactive Portfolio Here!](https://carlos-lopez-portfolio-three.vercel.app/)** 🚀
 > *See my featured projects like Easy Place, detailed architectures, and interactive demos.*
 
+> ### 🇲🇽 **[I'm also a Spanish teacher! Visit my profile](https://preply.in/CARLOS6ES35033490102?ts=17896940)** 🗣️
+> *Looking to improve your Spanish? Book a conversational lesson with me!*
+
 ---
 
 ## 💻 Tech Stack
